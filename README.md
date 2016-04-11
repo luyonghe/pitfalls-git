@@ -1,1 +1,1 @@
-# pitsfall-git
+# pitfalls-git
